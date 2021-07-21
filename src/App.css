@@ -57,6 +57,10 @@
   height: auto;
 }
 
+.btn-plus-minus:hover {
+  cursor: pointer;
+}
+
 .btn-reset {
   background-color: #5c48d3;
   color: white;
@@ -66,6 +70,10 @@
   width: 120px;
   margin: auto;
   border-radius: 10px;
+}
+
+.btn-reset:hover {
+  cursor: pointer;
 }
 
 .footer {
